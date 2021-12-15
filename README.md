@@ -1,2 +1,2 @@
 # Photo-blog
-## [Live - Photo-blog](https://juveriad.github.io/Photo-blog/index.html)
+### [Live - Photo-blog](https://juveriad.github.io/Photo-blog/index.html)
