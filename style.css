@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+}
+html{
+  font-size: 10px;
+}
+body{
+  background-color: #9e9d9b;
+}
+p#photo{
+font-size: 3.2rem;
+font-family: 'Baloo Bhaijaan 2', cursive;
+border-bottom: 2px solid #242121;
+display: inline-block;
+width: 90%;
+margin: calc(10%/10);
+text-transform: uppercase;
+}
+#icon{
+  font-size: 2.2rem;
+  color: #242121;
+  padding: 1.2rem ;
+}
+img{
+width: 30%;
+margin: calc(10%/10);
+
+}
+img:hover{
+  box-shadow: 0 3px 9px 1px #303235b2;
+}
